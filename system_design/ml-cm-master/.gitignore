@@ -1,0 +1,4 @@
+# Ignore python config files
+*.pyc
+# Ignore python environment
+env/
